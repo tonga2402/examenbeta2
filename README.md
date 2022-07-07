@@ -1,3 +1,5 @@
 # examenbeta2
 gaston
-Daniel
+Daniel Pomareda
+Camilo Galindo
+carolina benitez
