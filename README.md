@@ -1,5 +1,5 @@
 # examenbeta2
-gaston
+gaston Balmaceda
 Daniel Pomareda
 Camilo Galindo
 carolina benitez
